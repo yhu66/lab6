@@ -48,3 +48,13 @@
   padding: 0;
   display: block;
 }
+
+#sidebar-container a {
+  text-decoration: none;
+  color: #fff;
+  padding: 15px 0;
+}
+
+#sidebar a:hover {
+   background-color: #000;
+}
