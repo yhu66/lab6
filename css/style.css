@@ -22,14 +22,14 @@
   float: left;
 }
 
-#onpage a{
+#navbar-container a{
   color: #fff;
   float: left;
   text-decoration: none;
   padding: 10px 20px;
 }
 
-#onpage a:hover {
+#navbar-container a:hover {
   display: block;
   background-color: #000;
   text-decoration: underline overline;
