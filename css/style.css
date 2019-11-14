@@ -47,12 +47,13 @@
   text-align: center;
   padding: 0;
   display: block;
+  padding: 15px 0;
+
 }
 
 #sidebar-container a {
   text-decoration: none;
   color: #fff;
-  padding: 15px 0;
 }
 
 #sidebar a:hover {
