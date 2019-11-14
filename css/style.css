@@ -20,14 +20,14 @@
   position: relative;
   float: left;
 }
-#main-navbar a{
+#navbar-container a{
   color: #fff;
   float: left;
   text-decoration: none;
   padding: 10px 20px;
 }
 
-#main-navbar a:hover {
+#navbar-container a:hover {
   display: block;
   background-color: #000;
   text-decoration: underline overline;
