@@ -17,6 +17,13 @@
   left: 50%;
 }
 
+#navbar-container li{
+  position: relative;
+  right: 50%;
+  float: left;
+  padding: 10px 20px;
+}
+
 a{
   color: #fff;
   text-decoration: none;
